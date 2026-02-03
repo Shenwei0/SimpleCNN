@@ -1,4 +1,4 @@
-# CNN for visual servoing
+# CNN for testing purposes only.
 
-This is a work in progress. Current training and testing is done with jets, cars, and ships.
+
 
